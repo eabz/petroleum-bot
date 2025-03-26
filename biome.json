@@ -25,7 +25,6 @@
     "rules": {
       "suspicious": {
         "noArrayIndexKey": "off",
-        "noConsoleLog": "error",
         "noEmptyBlockStatements": "error",
         "useAwait": "error",
         "noDuplicateJsxProps": "error"
